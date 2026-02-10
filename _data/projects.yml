@@ -1,5 +1,11 @@
 # Images in /site/assets/labor/
 
+- name: GitHub Copilot Setup Tutorial Videos
+  description: A series of tutorial videos walking through setting up GitHub and GitHub Copilot end-to-end for your company — covering licenses, SSO, Azure subscriptions, and Copilot license assignment.
+  image: /site/assets/labor/copilot-setup-tutorial.webp
+  link: https://devblogs.microsoft.com/all-things-azure/tutorial-videos-setting-up-github-copilot-for-your-company/
+  category: Work
+
 - name: GitHub Universe Talk 2023
   description: In November 2023, I gave a talk at GitHub Universe about rolling effectively scaling out GitHub Actions with a customer of mine - TELUS (large telco in Canada).
   image: /site/assets/labor/github-universe-2023.png
@@ -32,7 +38,7 @@
 
 - name: Fake News Detector
   description: A collection of scripts that use large datasets to find trends in 'Fake News' from various articles, using both the Apriori and PRIMS data science algorithms.
-  link: https://github.com/Eldrick19/didactic-lamp
+  link: https://github.com/ewega/didactic-lamp
   image: /site/assets/labor/fake-news.jpeg
   category: Personal
 

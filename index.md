@@ -6,7 +6,7 @@ feature_image: "assets/monument.png"
 
 Hi, I'm Eldrick Wega - Thanks for dropping by 👋🏾
 
-I'm Cameroonian 🇨🇲 and Malian 🇲🇱 and currently work as a Solutions Engineer at GitHub, based out of Toronto, Canada 🇨🇦. 
+I'm Cameroonian 🇨🇲 and Malian 🇲🇱 and currently work as a Senior Global Black Belt - DevTools at Microsoft, based out of Nairobi, Kenya 🇰🇪. 
 
 I'm passionate about a couple of things: building products with people, development of the African continent, economic systems, and jumping rope!
 
@@ -17,7 +17,7 @@ I'm passionate about a couple of things: building products with people, developm
 You can check out some of the things I've worked on or doing either at my:
 
 - ["Labor" page](/site/labor/)
-- GitHub profile: [@eldrick19](https://github.com/eldrick19)
+- GitHub profile: [@ewega](https://github.com/ewega)
 - LinkedIn profile: [@Eldrick-Wega](https://www.linkedin.com/in/eldrick-wega/)
 
 ### What I'm thinking about 🤔
