@@ -5,7 +5,7 @@ destination: _site
 
 # Build settings
 markdown: kramdown
-theme: alembic-jekyll-theme
+theme:
 
 # Site configuration
 # 1. Files excluded from Jekyll builds
@@ -28,7 +28,7 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
-- alembic-jekyll-theme.gemspec
+
 - .jekyll-cache
 
 # 2. Installed Gems
@@ -104,12 +104,12 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Eldrick's Digital Footprint" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/headshot.png" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "Eldrick's Digital Footprint" # Site description and default description, also used in jekyll-seo-tag
 url: "ewega.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/ewega/site"
 email: "eldrick.wega@gmail.com"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+# disqus: "" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
