@@ -5,7 +5,7 @@ destination: _site
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: alembic-jekyll-theme
 
 # Site configuration
 # 1. Files excluded from Jekyll builds
@@ -28,7 +28,6 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
-- search.md
 - .jekyll-cache
 
 # 2. Installed Gems
