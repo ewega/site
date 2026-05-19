@@ -2,10 +2,11 @@
 layout: page
 ---
 
-## Reading Currently 
+Last updated: May 19, 2026
 
-- Precolonial Black Africa
-- Class Struggle in Africa 
+## Reading Currently
+- Frictionless
+- The Singapore Story
 
 ## Books I've read
 ### Fiction
@@ -24,3 +25,5 @@ layout: page
 - Principles of Product Management
 - Women's Liberation and the African Freedom Struggle
 - People's Republic of Walmart
+- Kicking Away the Ladder
+- The Wretched of the Earth
