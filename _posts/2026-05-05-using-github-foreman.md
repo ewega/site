@@ -2,6 +2,8 @@
 title: "GitHub Foreman and how I started thinking about Cloud agent teams for code work"
 categories:
 - GitHub
+redirect_from:
+- /github/2026/05/05/using-github-foreman-in-gh-devlake/
 ---
 
 I've been spending a lot of time lately thinking about what happens after "AI pair programmer" turns into "AI team working on a real repository". Shoutout to [Squad](https://github.com/bradygaster/squad) here, and check out the [GitHub App](https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/). These are similar in spirit to what led me down this experiment: human-led agent teamwork, clear responsibilities, and keeping the person in the loop.
